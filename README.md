@@ -1,3 +1,5 @@
 # albert-model_attempt-
-tensorflow2下albert 预训练模型  
-测试并学习
+tensorflow2.0  
+轻量级模型ALBERT  
+keras尝试
+
